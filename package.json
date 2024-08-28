@@ -1,5 +1,6 @@
 {
   "name": "hello_world",
+  "_comment": "This is a comment",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -34,3 +35,4 @@
     "node": ">=18"
   }
 }
+
